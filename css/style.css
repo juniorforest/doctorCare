@@ -8,7 +8,7 @@
 
 }
 
-/* 170 */
+/* color 170 */
 :root {
   --hue: 190;
   --primary-color: hsl(var(--hue), 100%, 26%);
